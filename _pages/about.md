@@ -63,10 +63,8 @@ redirect_from:
     </div>
   </div>
   <div class="paper-box-text" markdown="1">
-
 - *2023*, Teamfight Tactics：A game developed with Cocos2d-x
-  - This project implemented core game features using object-oriented principles and was open-sourced on GitHub, receiving positive feedback. I gained in-depth knowledge of Cocos2d-x and experience in community management. **The project won the Bronze Award at the 2024 China International College Students' Innovation Competition (Tongji University) and the Bronze Award in the 9th Shanghai Student Cultural and Creative Works Exhibition.**
-
+  - This project implemented core game features using object-oriented principles and was open-sourced on GitHub, receiving positive feedback. I gained in-depth knowledge of Cocos2d-x and experience in community management. <strong>The project won the Bronze Award at the 2024 China International College Students' Innovation Competition (Tongji University) and the Bronze Award in the 9th Shanghai Student Cultural and Creative Works Exhibition.</strong>
   </div>
 </div>
 
