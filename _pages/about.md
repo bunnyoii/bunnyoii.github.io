@@ -58,7 +58,7 @@ redirect_from:
 
   **In this internship, I not only deepened my technical expertise in front-end development, but also enhanced my communication and teamwork skills, gaining a better understanding of project requirements and.**
 
-# 💻 Project Experience
+# 💻 Projects
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Teamfight Tactics</div><img src="images/teamfight-tactics.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
@@ -68,7 +68,7 @@ redirect_from:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">PetJoy</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">PetJoy</div><img src="images/petjoy.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 - *2024*, PetJoy: A one-stop hub for information and resource exchange tailored to pet enthusiasts
   - Developing the PetJoy platform enhanced my expertise in the Vue ecosystem and efficient data management with axios. I built and optimized backend services using ASP.NET Core Web API and handled containerization with Docker and Nginx. I successfully led a 10-person team to complete the project.
@@ -116,6 +116,4 @@ redirect_from:
 - Member, Zhongying Public Welfare Promotion Association, Tongji University
 - Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
 
-<br>
-<br>
-<br>
+<br><br>
