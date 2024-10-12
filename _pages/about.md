@@ -61,6 +61,22 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
   **In this internship, I not only deepened my technical expertise in front-end development, but also enhanced my communication and teamwork skills, gaining a better understanding of project requirements and.**
 
+# 🛠️ Technical Skills
+
+- **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
+- **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
+- **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
+- **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+
+# 🏫 Student Activities
+
+- Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
+- Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
+- President, Huawei Technology Club, School of Computer Science and Technology, Tongji University
+- 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
+- Member, Zhongying Public Welfare Promotion Association, Tongji University
+- Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
+
 # 💻 Projects
 
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Teamfight Tactics</div><img src="images/teamfight-tactics.png" alt="image" width="100%"></div></div>
@@ -102,23 +118,3 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
   - **This project not only strengthened my full-stack development skills but also enhanced my interdisciplinary communication and project management abilities.**
 </div>
 </div>
-
-123
-
-# 🛠️ Technical Skills
-
-- **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
-- **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
-- **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
-- **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
-
-# 🏫 Student Activities
-
-- Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
-- Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
-- President, Huawei Technology Club, School of Computer Science and Technology, Tongji University
-- 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
-- Member, Zhongying Public Welfare Promotion Association, Tongji University
-- Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
-
-<br><br>
