@@ -18,9 +18,9 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <h1>
-  <img src="images/MeowClorox.gif" height="30"/>
+  <img src="images/MeowClorox.gif" height="30px"/>
   Hi there my No.
-  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30"/>
+  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30px"/>
   visitor!
 </h1>
 
@@ -28,10 +28,14 @@ I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
+<span class="anchor" id="educations"></span>
+
 # 📖 Educations
 
 - *2022 – 2026*, Tongji University – School of Computer Science and Technology
   - Bachelor's Degree in Software Engineering, Specialization in Machine Intelligence
+
+<span class="anchor" id="honors-and-awards"></span>
 
 # 🏅 Honors and Awards
 
@@ -41,6 +45,8 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - *2022 - 2026*, Tang Zhongying Scholarship for Moral Education, Tongji University (Top 1%)
 - *2024*, Gold Medal of the 2024 China International College Students' Innovation Competition (Shanghai)
 - *2024*, International Genetically Engineered Machine Competition (iGEM)
+
+<span class="anchor" id="scientific-research"></span>
 
 # 🔬 Scientific Research
 
@@ -57,6 +63,8 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
   **This project ranked first in the 2024 project proposal defense at the School of Software Engineering, Tongji University. A related paper is under preparation and expected to be submitted to the 2025 IEEE International Conference on Multimedia and Expo (ICME).**
 
+<span class="anchor" id="internships"></span>
+
 # 👨‍💻 Internships
 
 - *2024 / 07 - 2024 / 08*, Changjiang Pension Insurance Co., Pacific Insurance Group – IT Department
@@ -65,6 +73,8 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
   - Prompt Optimization for Dify Model: Enhanced prompt design and multi-turn dialogue features to improve the system's understanding of queries and contextual relevance, leading to more accurate and intelligent responses.
 
   **In this internship, I not only deepened my technical expertise in front-end development, but also enhanced my communication and teamwork skills, gaining a better understanding of project requirements and.**
+
+<span class="anchor" id="projects"></span>
 
 # 💻 Projects
 
@@ -108,12 +118,16 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 </div>
 </div>
 
+<span id="technical-skills"></span>
+
 # 🛠️ Technical Skills
 
 - Programming Languages: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
 - Frameworks and Libraries: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
 - Data Analysis: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
 - Development Tools: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+
+<span class="anchor" id="student-activities"></span>
 
 # 🏫 Student Activities
 
@@ -123,3 +137,5 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
 - Member, Zhongying Public Welfare Promotion Association, Tongji University
 - Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
+
+<br><br>
