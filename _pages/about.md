@@ -60,7 +60,7 @@ redirect_from:
 
 # 💻 Project Experience
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2016</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Teamfight Tactics</div><img src="images/teamfight-tactics.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 - *2023*, Teamfight Tactics：A game developed with Cocos2d-x
   - This project implemented core game features using object-oriented principles and was open-sourced on GitHub, receiving positive feedback. I gained in-depth knowledge of Cocos2d-x and experience in community management.
@@ -68,7 +68,7 @@ redirect_from:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2016</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">PetJoy</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 - *2024*, PetJoy: A one-stop hub for information and resource exchange tailored to pet enthusiasts
   - Developing the PetJoy platform enhanced my expertise in the Vue ecosystem and efficient data management with axios. I built and optimized backend services using ASP.NET Core Web API and handled containerization with Docker and Nginx. I successfully led a 10-person team to complete the project.
@@ -76,7 +76,7 @@ redirect_from:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2016</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Oral Hub</div><img src="images/oral-hub.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 - *2024*, Oral Hub: Children's dental intelligent diagnosis and treatment platform
   - This project developed an AI-based early screening platform for pediatric malocclusion, integrating data from over 100 regions in China into a national database. It created intelligent screening models and provided educational content, advancing pediatric oral health initiatives with scalable and smart solutions.
@@ -84,7 +84,7 @@ redirect_from:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2016</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">MinmusOS</div><img src="images/minmusos.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 - *2024*, MinmusOS: The design and implementation of an operating system based on Rust language
   - MinmusOS is a multi-tasking operating system developed in Rust for the Intel IA-32 (x86) architecture. It implements kernel-space and user-space separation, task scheduling, memory management, and device drivers, leveraging Rust's memory safety to address issues in traditional OS design.
@@ -92,7 +92,7 @@ redirect_from:
 </div>
 </div>
 
-<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2016</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">Atlas.Y</div><img src="images/atlas-y.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 - *2024*, Atlas.Y: Advanced targeting and localization assistance system for yeast
   - Atlas.Y is a molecular tag design software for optimizing yeast subcellular localization, developed for the iGEM competition. As team lead, I guided the project and represented Tongji University in Paris. The frontend was built with Vue3.js, Vuetify, and Element Plus, while the backend handled database management and RESTful APIs. We also integrated a deep learning model for intelligent tag optimization and developed a Wiki to present our project. Wiki: [https://2024.igem.wiki/tongji-software](https://2024.igem.wiki/tongji-software).
@@ -115,3 +115,7 @@ redirect_from:
 - 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
 - Member, Zhongying Public Welfare Promotion Association, Tongji University
 - Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
+
+<br>
+<br>
+<br>
