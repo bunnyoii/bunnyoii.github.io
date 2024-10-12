@@ -19,12 +19,72 @@ redirect_from:
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+# Educations
 
+**Tongji University – School of Computer Science and Technology**
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Bachelor's Degree in Software Engineering, Specialization in Machine Intelligence
+
+# Honors and Awards
+
+- *2022 / 2023*, First-Class Scholarship for Outstanding Students, Tongji University (Top 5%)
+- *2022 / 2023*, "Outstanding Student" Award, Tongji University (Top 5%)
+- *2022 / 2023*, Social Activity Scholarship, Tongji University (Top 5%)
+- *2022 - 2026*, Tang Zhongying Scholarship for Moral Education, Tongji University (Top 1%)
+- *2024*, Gold Medal of the 2024 China International College Students' Innovation Competition (Shanghai)
+- *2024*, International Genetically Engineered Machine Competition (iGEM)
+
+# Scientific Research
+
+- *2023 / 03 - 2024 / 03*, Mask-Wearing Detection System for Access Control Based on Ultralytics
+  - This project developed a real-time mask-wearing detection system using the YOLOv8 model, covering data collection, annotation, model training, and optimization. The solution integrated mask detection into the access control system, enabling real-time monitoring and alerts. **The project was successfully completed and received an "Excellent" rating in the 2024 final review by the School of Electronics and Information Engineering.**
+
+- *2024 / 03 - 2025 / 03*, Lightweight Network for 3D Image Sensor Signal Enhancement
+  - Multi-scale Kernel Design: The network dynamically adjusts kernel sizes to capture both local details and broader features, modeling dependencies at various scales.
+  - Model Complexity Analysis: Pruning and sparsification techniques reduced redundant computations, optimizing performance through L1 regularization and gradient calculations.
+  - Lightweight Design: Streamlined network structures reduced computational complexity and memory usage while maintaining high performance.
+  - Real-world Testing: The model was validated on real-time sensor data, demonstrating improved image quality and efficiency on resource-constrained devices.
+  **This project ranked first in the 2024 project proposal defense at the School of Software Engineering, Tongji University. A related paper is under preparation and expected to be submitted to the 2025 IEEE International Conference on Multimedia and Expo (ICME).**
+
+# Internships
+
+- *2024 / 07 - 2024 / 08*, Changjiang Pension Insurance Co., Pacific Insurance Group – IT Department
+  - Front-end Development for Mid-platform Management System: Led development using Vue.js, integrating Vue Router for navigation and Element UI for consistency. Developed key modules like user management and role permissions, while optimizing API calls to improve performance and user experience.
+  - Due Diligence Assistant Development: Implemented speech-to-text by integrating third-party recognition services with the Dify language model to automate meeting minute generation and analysis, including key information extraction and summary generation for each speaker and agenda.
+  - Prompt Optimization for Dify Model: Enhanced prompt design and multi-turn dialogue features to improve the system's understanding of queries and contextual relevance, leading to more accurate and intelligent responses.
+
+# Project Experience
+
+- *2023*, Teamfight Tactics：A game developed with Cocos2d-x
+  - This project implemented core game features using object-oriented principles and was open-sourced on GitHub, receiving positive feedback. I gained in-depth knowledge of Cocos2d-x and experience in community management. **The project won the Bronze Award at the 2024 China International College Students' Innovation Competition (Tongji University) and the Bronze Award in the 9th Shanghai Student Cultural and Creative Works Exhibition.**
+
+- *2024*, PetJoy: A one-stop hub for information and resource exchange tailored to pet enthusiasts
+  - Developing the PetJoy platform enhanced my expertise in the Vue ecosystem and efficient data management with axios. I built and optimized backend services using ASP.NET Core Web API and handled containerization with Docker and Nginx. I successfully led a 10-person team to complete the project. **This experience enhanced my full-stack development skills and honed my project management and team communication abilities.**
+
+- *2024*, Oral Hub: Children's dental intelligent diagnosis and treatment platform
+  - This project developed an AI-based early screening platform for pediatric malocclusion, integrating data from over 100 regions in China into a national database. It created intelligent screening models and provided educational content, advancing pediatric oral health initiatives with scalable and smart solutions. **The project won the Gold Medal of the 2024 China International College Students' Innovation Competition (Shanghai).**
+
+- *2024*, MinmusOS: The design and implementation of an operating system based on Rust language
+  - MinmusOS is a multi-tasking operating system developed in Rust for the Intel IA-32 (x86) architecture. It implements kernel-space and user-space separation, task scheduling, memory management, and device drivers, leveraging Rust's memory safety to address issues in traditional OS design. **This project helped me gain a foundational understanding of the Rust programming language, operating system principles, and Linux-related toolchains, significantly improving my system development skills.**
+
+- *2024*, Atlas.Y: Advanced targeting and localization assistance system for yeast
+  - Atlas.Y is a molecular tag design software for optimizing yeast subcellular localization, developed for the iGEM competition. As team lead, I guided the project and represented Tongji University in Paris. The frontend was built with Vue3.js, Vuetify, and Element Plus, while the backend handled database management and RESTful APIs. We also integrated a deep learning model for intelligent tag optimization and developed a Wiki to present our project. Wiki: https://2024.igem.wiki/tongji-software. **This project not only strengthened my full-stack development skills but also enhanced my interdisciplinary communication and project management abilities.**
+
+# Technical Skills
+
+- **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
+- **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
+- **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
+- **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+
+# Student Activities
+
+- Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
+- Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
+- President, Huawei Technology Club, School of Computer Science and Technology, Tongji University
+- 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
+- Member, Zhongying Public Welfare Promotion Association, Tongji University
+- Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
 
 # 📝 Publications 
 
@@ -39,24 +99,3 @@ My research interest includes neural machine translation and computer vision. I 
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2022 / 2023* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships Experience
-
-- *2024 / 07 - 2024 / 08*, Changjiang Pension Insurance Co., Pacific Insurance Group – IT Department.
-  - Front-end Development for Mid-platform Management System: Led development using Vue.js, integrating Vue Router for navigation and Element UI for consistency. Developed key modules like user management and role permissions, while optimizing API calls to improve performance and user experience.
-  - Due Diligence Assistant Development: Implemented speech-to-text by integrating third-party recognition services with the Dify language model to automate meeting minute generation and analysis, including key information extraction and summary generation for each speaker and agenda.
-  - Prompt Optimization for Dify Model: Enhanced prompt design and multi-turn dialogue features to improve the system's understanding of queries and contextual relevance, leading to more accurate and intelligent responses.
