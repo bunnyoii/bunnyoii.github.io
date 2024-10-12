@@ -14,11 +14,11 @@ main:
   - title: "Internships"
     url: "/#internships"
 
+  - title: "Projects"
+    url: "/#projects"
+
   - title: "Technical Skills"
     url: "/#technical-skills"
 
   - title: "Student Activities"
     url: "/#student-activities"
-
-  - title: "Projects"
-    url: "/#projects"
