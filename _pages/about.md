@@ -17,19 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-
 # 🥰 About Me
 
 Hi, I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
+<br>
 
 # 📖 Educations
 
 - *2022 – 2026*, Tongji University – School of Computer Science and Technology
   - Bachelor's Degree in Software Engineering, Specialization in Machine Intelligence
 
+<br>
 
 # 🏅 Honors and Awards
 
@@ -40,6 +41,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - *2024*, Gold Medal of the 2024 China International College Students' Innovation Competition (Shanghai)
 - *2024*, International Genetically Engineered Machine Competition (iGEM)
 
+<br>
 
 # 🔬 Scientific Research
 
@@ -66,6 +68,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
   **In this internship, I not only deepened my technical expertise in front-end development, but also enhanced my communication and teamwork skills, gaining a better understanding of project requirements and.**
 
+<br>
 
 # 💻 Projects
 
@@ -109,6 +112,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 </div>
 </div>
 
+<br>
 
 # 🛠️ Technical Skills
 
@@ -117,6 +121,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
 - **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
 
+<br>
 
 # 🏫 Student Activities
 
@@ -127,5 +132,4 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - Member, Zhongying Public Welfare Promotion Association, Tongji University
 - Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
 
-
-<br><br>
+<br>
