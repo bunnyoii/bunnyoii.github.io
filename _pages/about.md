@@ -18,9 +18,8 @@ redirect_from:
 <span class="anchor" id="about-me"></span>
 
 <h1>
-  <img src="images/MeowClorox.gif" height="30px"/>
-  Hi there my No.
-  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30px"/>
+  🥰 Hi there my No.
+  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg"/>
   visitor!
 </h1>
 
