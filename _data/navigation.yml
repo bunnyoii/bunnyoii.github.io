@@ -3,22 +3,22 @@ main:
     url: "/#about-me"
 
   - title: "Educations"
-    url: "/#educations"
+    url: "/#-educations"
 
   - title: "Honors and Awards"
-    url: "/#honors-and-awards"
+    url: "/#-honors-and-awards"
 
   - title: "Scientific Research"
-    url: "/#scientific-research"
+    url: "/#-scientific-research"
 
   - title: "Internships"
-    url: "/#internships"
+    url: "/#-internships"
 
   - title: "Projects"
-    url: "/#projects"
+    url: "/#-projects"
 
   - title: "Technical Skills"
-    url: "/#technical-skills"
+    url: "/#-technical-skills"
 
   - title: "Student Activities"
-    url: "/#student-activities"
+    url: "/#-student-activities"

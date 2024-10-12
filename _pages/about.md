@@ -17,8 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-(+86) 15143305542丨2250758@tongji.edu.cn
-1239 Siping Road, Yangpu District, Shanghai, Tongji University丨200092
+# 🥰 About Me
+
+Hi, I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
+
+Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
 # 📖 Educations
 
