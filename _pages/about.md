@@ -121,8 +121,8 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 # 🛠️ Technical Skills
 
-- **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
-- **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
+- **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust
+- **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV, SwiftUI
 - **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
 - **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
 
