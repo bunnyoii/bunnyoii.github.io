@@ -43,7 +43,7 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022 / 2023* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
@@ -54,5 +54,9 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Internships Experience
+
+- *2024 / 07 - 2024 / 08*, Changjiang Pension Insurance Co., Pacific Insurance Group – IT Department.
+  - Front-end Development for Mid-platform Management System: Led development using Vue.js, integrating Vue Router for navigation and Element UI for consistency. Developed key modules like user management and role permissions, while optimizing API calls to improve performance and user experience.
+  - Due Diligence Assistant Development: Implemented speech-to-text by integrating third-party recognition services with the Dify language model to automate meeting minute generation and analysis, including key information extraction and summary generation for each speaker and agenda.
+  - Prompt Optimization for Dify Model: Enhanced prompt design and multi-turn dialogue features to improve the system's understanding of queries and contextual relevance, leading to more accurate and intelligent responses.
