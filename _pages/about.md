@@ -15,11 +15,16 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class="anchor" id="about-me"></span>
 
-# 🥰 About Me
+<h1>
+  <img src="images/MeowClorox.gif" height="30"/>
+  Hi there my No.
+  <img src="https://profile-counter.glitch.me/MinmusLin/count.svg" height="30"/>
+  visitor!
+</h1>
 
-Hi, I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
+I'm Jishen Lin, an undergraduate student majoring in Software Engineering with a focus on Machine Intelligence at the School of Computer Science and Technology, [Tongji University](https://www.tongji.edu.cn). I am passionate about full-stack development and committed to practicing elegant engineering solutions. I enjoy collaborating with diverse teams to explore cutting-edge technologies and solve real-world problems through innovative and efficient solutions. With experience in full-stack development, AI research, and open-source projects, I am always seeking new challenges and opportunities to learn and grow.
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
@@ -60,22 +65,6 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
   - Prompt Optimization for Dify Model: Enhanced prompt design and multi-turn dialogue features to improve the system's understanding of queries and contextual relevance, leading to more accurate and intelligent responses.
 
   **In this internship, I not only deepened my technical expertise in front-end development, but also enhanced my communication and teamwork skills, gaining a better understanding of project requirements and.**
-
-# 🛠️ Technical Skills
-
-- **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
-- **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
-- **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
-- **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
-
-# 🏫 Student Activities
-
-- Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
-- Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
-- President, Huawei Technology Club, School of Computer Science and Technology, Tongji University
-- 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
-- Member, Zhongying Public Welfare Promotion Association, Tongji University
-- Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
 
 # 💻 Projects
 
@@ -118,3 +107,19 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
   - **This project not only strengthened my full-stack development skills but also enhanced my interdisciplinary communication and project management abilities.**
 </div>
 </div>
+
+# 🛠️ Technical Skills
+
+- Programming Languages: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
+- Frameworks and Libraries: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
+- Data Analysis: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
+- Development Tools: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+
+# 🏫 Student Activities
+
+- Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
+- Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
+- President, Huawei Technology Club, School of Computer Science and Technology, Tongji University
+- 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
+- Member, Zhongying Public Welfare Promotion Association, Tongji University
+- Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
