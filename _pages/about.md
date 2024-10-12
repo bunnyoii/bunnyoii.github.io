@@ -55,17 +55,11 @@ redirect_from:
 
 # 💻 Project Experience
 
-<div class="paper-box">
-  <div class="paper-box-image">
-    <div>
-      <div class="badge">CVPR 2016</div>
-      <img src="images/500x300.png" alt="image" width="100%">
-    </div>
-  </div>
-  <div class="paper-box-text" markdown="1">
+<div class="paper-box"><div class="paper-box-image"><div><div class="badge">CVPR 2016</div><img src="images/500x300.png" alt="image" width="100%"></div></div>
+<div class="paper-box-text" markdown="1">
 - *2023*, Teamfight Tactics：A game developed with Cocos2d-x
   - This project implemented core game features using object-oriented principles and was open-sourced on GitHub, receiving positive feedback. I gained in-depth knowledge of Cocos2d-x and experience in community management. <strong>The project won the Bronze Award at the 2024 China International College Students' Innovation Competition (Tongji University) and the Bronze Award in the 9th Shanghai Student Cultural and Creative Works Exhibition.</strong>
-  </div>
+</div>
 </div>
 
 - *2024*, PetJoy: A one-stop hub for information and resource exchange tailored to pet enthusiasts
