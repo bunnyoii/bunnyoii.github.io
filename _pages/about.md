@@ -52,9 +52,11 @@ redirect_from:
 # 👨‍💻 Internships
 
 - *2024 / 07 - 2024 / 08*, Changjiang Pension Insurance Co., Pacific Insurance Group – IT Department
-  - Front-end Development for Mid-platform Management System: Led development using Vue.js, integrating Vue Router for navigation and Element UI for consistency. Developed key modules like user management and role permissions, while optimizing API calls to improve performance and user experience.
-  - Due Diligence Assistant Development: Implemented speech-to-text by integrating third-party recognition services with the Dify language model to automate meeting minute generation and analysis, including key information extraction and summary generation for each speaker and agenda.
+  - Front-end Development for Mid-platform Management System: Led development using Vue.js, integrating Vue Router and Element UI. Developed key modules like user management and role permissions.
+  - Due Diligence Assistant Development: Implemented speech-to-text by integrating third-party recognition services with the Dify language model to automate meeting minute generation and analysis.
   - Prompt Optimization for Dify Model: Enhanced prompt design and multi-turn dialogue features to improve the system's understanding of queries and contextual relevance, leading to more accurate and intelligent responses.
+
+  **In this internship, I not only deepened my technical expertise in front-end development, but also enhanced my communication and teamwork skills, gaining a better understanding of project requirements and.**
 
 # 💻 Project Experience
 
