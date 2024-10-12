@@ -23,14 +23,10 @@ Hi, I'm Jishen Lin, an undergraduate student majoring in Software Engineering wi
 
 Feel free to reach out if you'd like to discuss ideas or explore new possibilities in tech innovation!
 
-<br>
-
 # 📖 Educations
 
 - *2022 – 2026*, Tongji University – School of Computer Science and Technology
   - Bachelor's Degree in Software Engineering, Specialization in Machine Intelligence
-
-<br>
 
 # 🏅 Honors and Awards
 
@@ -40,8 +36,6 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - *2022 - 2026*, Tang Zhongying Scholarship for Moral Education, Tongji University (Top 1%)
 - *2024*, Gold Medal of the 2024 China International College Students' Innovation Competition (Shanghai)
 - *2024*, International Genetically Engineered Machine Competition (iGEM)
-
-<br>
 
 # 🔬 Scientific Research
 
@@ -58,7 +52,6 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
   **This project ranked first in the 2024 project proposal defense at the School of Software Engineering, Tongji University. A related paper is under preparation and expected to be submitted to the 2025 IEEE International Conference on Multimedia and Expo (ICME).**
 
-
 # 👨‍💻 Internships
 
 - *2024 / 07 - 2024 / 08*, Changjiang Pension Insurance Co., Pacific Insurance Group – IT Department
@@ -67,8 +60,6 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
   - Prompt Optimization for Dify Model: Enhanced prompt design and multi-turn dialogue features to improve the system's understanding of queries and contextual relevance, leading to more accurate and intelligent responses.
 
   **In this internship, I not only deepened my technical expertise in front-end development, but also enhanced my communication and teamwork skills, gaining a better understanding of project requirements and.**
-
-<br>
 
 # 💻 Projects
 
@@ -112,16 +103,12 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 </div>
 </div>
 
-<br>
-
-# 🛠️ Technical Skills
+# 🛠️ Skills
 
 - **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Rust
 - **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV
 - **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
 - **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
-
-<br>
 
 # 🏫 Student Activities
 
@@ -132,4 +119,4 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - Member, Zhongying Public Welfare Promotion Association, Tongji University
 - Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
 
-<br>
+<br><br>
