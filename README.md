@@ -6,9 +6,9 @@
 </h1>
 
 > [!TIP]
-> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁▁▁ ] 76.24 %
+> ⏳ Year Progress [ ▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▇▁▁▁▁▁▁ ] 80.89 %
 >
-> ⏰ Updated on Sun, 06 Oct 2024 01:07:28 GMT
+> ⏰ Updated on Wed, 23 Oct 2024 01:02:41 GMT
 
 ### 👨‍💻 *[About Me](https://bunnyoii.github.io)*
 
