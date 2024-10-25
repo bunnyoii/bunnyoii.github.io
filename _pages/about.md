@@ -38,12 +38,12 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 # 🏅 Honors and Awards
 
-- *2022 / 2023*, First-Class Scholarship for Outstanding Students, Tongji University (Top 5%)
-- *2022 / 2023*, "Outstanding Student" Award, Tongji University (Top 5%)
-- *2022 / 2023*, Social Activity Scholarship, Tongji University (Top 5%)
-- *2022 - 2026*, Tang Zhongying Scholarship for Moral Education, Tongji University (Top 1%)
-- *2024*, Gold Medal of the 2024 China International College Students' Innovation Competition (Shanghai)
-- *2024*, International Genetically Engineered Machine Competition (iGEM)
+- *2022 / 2023*, 🥇 First-Class Scholarship for Outstanding Students, Tongji University (Top 5%)
+- *2022 / 2023*, 🎖️ "Outstanding Student" Award, Tongji University (Top 5%)
+- *2022 / 2023*, 🎖️ Social Activity Scholarship, Tongji University (Top 5%)
+- *2022 - 2026*, 🎖️ Tang Zhongying Scholarship for Moral Education, Tongji University (Top 1%)
+- *2024*, 🥇🥉 Gold Award in Shanghai and National Bronze Award in the 2024 China International College Students' Innovation Competition
+- *2024*, 🥇 International Genetically Engineered Machine Competition (iGEM)
 
 <span class="anchor" id="scientific-research"></span>
 
@@ -96,8 +96,8 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <div class="paper-box"><div class="paper-box-image"><div><div class="badge">Oral Hub</div><img src="images/oral-hub.png" alt="image" width="100%"></div></div>
 <div class="paper-box-text" markdown="1">
 - *2024*, Oral Hub: Children's dental intelligent diagnosis and treatment platform
-  - This project developed an AI-based early screening platform for pediatric malocclusion, integrating data from over 100 regions in China into a national database. It created intelligent screening models and provided educational content, advancing pediatric oral health initiatives with scalable and smart solutions.
-  - **The project won the Gold Medal of the 2024 China International College Students' Innovation Competition (Shanghai).**
+  - This project developed an AI-based early screening platform for pediatric malocclusion, integrating data from over 100 regions in China into a database. It created intelligent screening models and provided educational content, advancing pediatric oral health initiatives with scalable solutions.
+  - **The project won the Gold Award in Shanghai and National Bronze Award in the 2024 China International College Students' Innovation Competition.**
 </div>
 </div>
 
