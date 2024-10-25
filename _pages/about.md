@@ -121,20 +121,20 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 
 # 🛠️ Technical Skills
 
-- **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust
-- **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV, SwiftUI
-- **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
-- **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
+- 🖥️ **Programming Languages**: C/C++, C#, Java, Python, HTML, CSS, JavaScript, TypeScript, Dart, SQL, Swift, Rust
+- 🧰 **Frameworks and Libraries**: Node, Vue, Spring Boot, Cocos2d-x, Qt, Flutter, OpenCV, SwiftUI
+- 📈 **Data Analysis**: PyTorch, TensorFlow, Scikit-learn, NumPy, Matplotlib
+- ⚙️ **Development Tools**: Git, CMake, Makefile, Docker, Linux, Shell, Bash, LaTeX, Typst
 
 <span class="anchor" id="student-activities"></span>
 
 # 🏫 Student Activities
 
-- Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
-- Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
-- President, Huawei Technology Club, School of Computer Science and Technology, Tongji University
-- 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
-- Member, Zhongying Public Welfare Promotion Association, Tongji University
-- Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
+- 👨‍🎓 Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
+- 🎖️ Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
+- 🏆 President, Huawei Technology Club, School of Computer Science and Technology, Tongji University
+- 🏆 2024 Huawei Developer Program (HSD) Tongji University Campus Ambassador
+- 💞 Member, Zhongying Public Welfare Promotion Association, Tongji University
+- 👨‍🏫 Senior Peer Mentor, Academic Development and Guidance Center & Student Growth Center, Jiading Campus
 
 <br><br>
