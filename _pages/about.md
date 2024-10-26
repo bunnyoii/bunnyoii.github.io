@@ -43,7 +43,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 - *2022 / 2023*, 🎖️ Social Activity Scholarship, Tongji University (Top 5%)
 - *2022 - 2026*, 🎖️ Tang Zhongying Scholarship for Moral Education, Tongji University (Top 1%)
 - *2024*, 🥇🥉 Gold Award in Shanghai and National Bronze Award in the 2024 China International College Students' Innovation Competition
-- *2024*, 🥇 International Genetically Engineered Machine Competition (iGEM)
+- *2024*, 🥇 Gold Award in International Genetically Engineered Machine Competition (iGEM)
 
 <span class="anchor" id="scientific-research"></span>
 
@@ -113,7 +113,7 @@ Feel free to reach out if you'd like to discuss ideas or explore new possibiliti
 <div class="paper-box-text" markdown="1">
 - *2024*, Atlas.Y: Advanced targeting and localization assistance system for yeast
   - Atlas.Y is a molecular tag design software for optimizing yeast subcellular localization, developed for the iGEM competition. As team lead, I guided the project and represented Tongji University in Paris. The frontend was built with Vue3.js, Vuetify, and Element Plus, while the backend handled database management and RESTful APIs. We also integrated a deep learning model for intelligent tag optimization and developed a Wiki to present our project. Wiki: [https://2024.igem.wiki/tongji-software](https://2024.igem.wiki/tongji-software).
-  - **This project not only strengthened my full-stack development skills but also enhanced my interdisciplinary communication and project management abilities.**
+  - **This project won the Gold Medal in the iGEM Competition, and I attended the 2024 iGEM Jamboree in Paris, France as the Student Leader to present the project.**
 </div>
 </div>
 
