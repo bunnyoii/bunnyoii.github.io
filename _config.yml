@@ -1,8 +1,8 @@
-title                        : "Jishen Lin (林继申)"
+title                        : "Shuyi Liu (刘淑仪)"
 
-description                  : "Bachelor’s Degree in Software Engineering, Specialization in Machine Intelligence, School of Computer Science and Technology, Tongji University."
+description                  : "Bachelor’s Degree in Software Engineering, School of Computer Science and Technology, Tongji University."
 
-repository                   : "MinmusLin/MinmusLin.github.io"
+repository                   : "bunnyoii/bunnyoii.github.io"
 
 google_analytics_id          : # get google_analytics_id from https://analytics.google.com/analytics/
 
@@ -15,14 +15,14 @@ baidu_site_verification      : # get baidu_site_verification from https://ziyuan
 google_scholar_stats_use_cdn : true
 
 author:
-  name             : "Jishen Lin (林继申)"
+  name             : "Shuyi Liu (刘淑仪)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Tongji University"
   location         : "Shanghai, China"
   employer         :
   pubmed           :
   googlescholar    : # "https://scholar.google.com/citations?user=GOOGLE_SCHOLAR_ID"
-  email            : "minmuslin@outlook.com"
+  email            : "Liushuyi1127@outlook.com"
   researchgate     :
   uri              :
   bitbucket        :
@@ -31,7 +31,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MinmusLin"
+  github           : "bunnyoii"
   google_plus      :
   keybase          :
   instagram        :
