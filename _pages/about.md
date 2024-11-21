@@ -23,24 +23,25 @@ redirect_from:
   visitor!
 </h1>
 
-I'm Shuyi Liu, ...
+I'm Shuyi Liu. Bachelor's degree in Software Engineering, majoring in Machine Embedded Systems, School of Computer Science and Technology, Tongji University.
 
-...
+Feel free to reach out if you’d like to discuss ideas or explore new possibilities in tech innovation!
 
 <span class="anchor" id="educations"></span>
 
 # 📖 Educations
 
 - *2022 – 2026*, Tongji University – School of Computer Science and Technology
-  - Bachelor's Degree in Software Engineering, Specialization in ...
+  - Bachelor's Degree in Software Engineering, Specialization in Machine Embedded Systems
 
 <span class="anchor" id="honors-and-awards"></span>
 
 # 🏅 Honors and Awards
 
 - *2022 / 2023*, 🎖️ Social Activity Scholarship, Tongji University (Top 5%)
+- *2022 / 2023*, 🎖️ “Outstanding Student Cadre” Award, Tongji University (Top 5%)
+- *2023 / 2024*, 🎖️ Social Activity Scholarship, Tongji University (Top 5%)
 - *2024*, 🥇 Gold Award in International Genetically Engineered Machine Competition (iGEM)
-- ...
 
 <span class="anchor" id="scientific-research"></span>
 
@@ -58,7 +59,7 @@ I'm Shuyi Liu, ...
 
 # 👨‍💻 Internships
 
-- ...
+- Currently unavailable
 
 <span class="anchor" id="projects"></span>
 
@@ -87,19 +88,12 @@ I'm Shuyi Liu, ...
 
 <span id="technical-skills"></span>
 
-# 🛠️ Technical Skills
-
-- 🖥️ **Programming Languages**: C/C++, ...
-- 🧰 **Frameworks and Libraries**: ...
-- 📈 **Data Analysis**: ...
-- ⚙️ **Development Tools**: ...
-
 <span class="anchor" id="student-activities"></span>
 
 # 🏫 Student Activities
 
 - 👨‍🎓 Class Monitor, Class 1, Software Engineering, School of Computer Science and Technology (2022 cohort)
 - 🎖️ Awarded "Outstanding Volunteer" by Freshman Institute (2022-2023), with nearly 200 hours of volunteer service
-- ...
+- 🏆 Vice-chairperson, Huawei Technology Club, School of Computer Science and Technology, Tongji University
 
 <br><br>
