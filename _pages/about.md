@@ -41,6 +41,7 @@ Feel free to reach out if you’d like to discuss ideas or explore new possibili
 - *2022 / 2023*, 🎖️ Social Activity Scholarship, Tongji University (Top 5%)
 - *2022 / 2023*, 🎖️ “Outstanding Student Cadre” Award, Tongji University (Top 5%)
 - *2023 / 2024*, 🎖️ Social Activity Scholarship, Tongji University (Top 5%)
+- *2023 / 2024*, 🎖️ “Outstanding Student Cadre” Award, Tongji University (Top 5%)
 - *2024*, 🥇 Gold Award in International Genetically Engineered Machine Competition (iGEM)
 
 <span class="anchor" id="scientific-research"></span>
